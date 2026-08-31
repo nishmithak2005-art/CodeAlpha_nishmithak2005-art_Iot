@@ -28,6 +28,7 @@ Components and Tools Used:
 - Jumper wires
 - Tinkercad
 - Arduino Programming
+- PIR Sensor
 
 Submission:
 
